@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Fernando Garcia!
 
-¡Bienvenido a mi GitHub! Soy un apasionado desarrollador de software con experiencia destacada en el desarrollo Backend, sobresaliendo en tecnologías clave como Java, MySQL y PHP. Mi enfoque ha estado centrado en liderar proyectos exitosos, donde he creado arquitecturas robustas mediante modelos cliente-servidor y microservicios. Además, mi experiencia abarca entornos Linux, donde he priorizado la estabilidad y seguridad de los proyectos.
+¡Bienvenido a mi rincón digital! Soy un apasionado desarrollador de software con experiencia destacada en el desarrollo Backend, sobresaliendo en tecnologías clave como Java, MySQL y PHP. Mi enfoque ha estado centrado en liderar proyectos exitosos, donde he creado arquitecturas robustas mediante modelos cliente-servidor y microservicios. Además, mi experiencia abarca entornos Linux, donde he priorizado la estabilidad y seguridad de los proyectos.
 
 ## 👀 ¿Qué me apasiona?
 
@@ -12,9 +12,9 @@ Actualmente, estoy inmerso en el mundo del Spring Boot Framework y explorando la
 
  ## 📫 ¿Cómo puedes contactarme?
 
-¡Hablemos! Puedes contactarme a través de:
+¡Hablemos! Puedes encontrarme en las siguientes plataformas:
 
-- Email: [lazaro13251@gmail.com]
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/fernando-garc%C3%ADa-lazaro-0b40a4181)
+- Email: [lazaro13251@gmail.com](mailto:lazaro13251@gmail.com)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-garc%C3%ADa-lazaro-0b40a4181)
 
 ¡Estoy emocionado por nuevas oportunidades y colaboraciones! 😊
