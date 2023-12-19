@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Fernando Garcia!
 
-¡Bienvenido a mi rincón digital! Soy un apasionado desarrollador de software con experiencia destacada en el desarrollo Backend, sobresaliendo en tecnologías clave como Java, MySQL y PHP. Mi enfoque ha estado centrado en liderar proyectos exitosos, donde he creado arquitecturas robustas mediante modelos cliente-servidor y microservicios. Además, mi experiencia abarca entornos Linux, donde he priorizado la estabilidad y seguridad de los proyectos.
+¡Bienvenido a mi GitHub! Soy un apasionado desarrollador de software con experiencia destacada en el desarrollo Backend, sobresaliendo en tecnologías clave como Java, MySQL y PHP. Mi enfoque ha estado centrado en liderar proyectos exitosos, donde he creado arquitecturas robustas mediante modelos cliente-servidor y microservicios. Además, mi experiencia abarca entornos Linux, donde he priorizado la estabilidad y seguridad de los proyectos.
 
 ## 👀 ¿Qué me apasiona?
 
