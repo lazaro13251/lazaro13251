@@ -14,7 +14,7 @@ Actualmente, estoy inmerso en el mundo del Spring Boot Framework y explorando la
 
 ¡Hablemos! Puedes encontrarme en las siguientes plataformas:
 
-- Email: [lazaro13251@gmail.com](mailto:lazaro13251@gmail.com)
+- ![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white) [lazaro13251@gmail.com](mailto:lazaro13251@gmail.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-garc%C3%ADa-lazaro-0b40a4181)
 
 ¡Estoy emocionado por nuevas oportunidades y colaboraciones! 😊
